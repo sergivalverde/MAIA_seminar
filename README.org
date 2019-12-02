@@ -20,6 +20,14 @@ will cover the basic concepts underlaying the library. As you will see, Altough 
 During the second part, we will implement the U-NET model and we will apply it to the MRI white matter lesion segmentation problem. We will cover the entire training and inference procedures, showing some tricks to learn better and faster models. Finally, I will introduce some of the latest techniques that have been proposed in the context of medical image segmentation, showing how easy is to incorporate them into our models.
 
 
+
+* Google Collaboratory notebooks:
+Public implementations of the notebooks can be also found in Google Collaboratory:
+
+- [[https://colab.research.google.com/drive/1gdEeOyhiuIBpBuzIHulm8g1YqjSXlGYs][Part 1]]
+- [[https://colab.research.google.com/drive/1qS1a-K9FKN8YX58IEQ026P70DJw7CN9q][Part 2]]
+
+
 * License:
 
 This tutorial is released under the version 3 of the GNU General Public License. Please read the license terms before using it. A copy of this license is present in the root directory.
