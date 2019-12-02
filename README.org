@@ -1,4 +1,4 @@
-* Performing medical image segmentation like a pro
+* Performing medical image segmentation like a pro :stuck_out_tongue_winking_eye: :sunglasses:
 
 This repository is part of the [[https://maiamaster.udg.edu/][MAIA]] master seminar in /Deep Learning/ techniques for medical image segmentation. The seminar is extremely focused on practice, so all the materials are in =notebook= format.
 
