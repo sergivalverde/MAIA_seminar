@@ -1,0 +1,26 @@
+* Performing medical image segmentation like a pro.
+
+This repository is part of the [[https://maiamaster.udg.edu/][MAIA]] master seminar in /Deep Learning/ techniques for medical image segmentation. The seminar is extremely focused on practice, so all the materials are in =notebook= format.
+
+We will cover the basic requirements to implement and train a U-NET model in [[http://pytorch.org][PyTorch]] in the context of lesion segmentation.
+
+* Introduction:
+
+Deep learning techniques have been implemented for a wide range of computer vision and medical imaging tasks such as image registration, classification and segmentation, showing a superior performance in comparison with state-of-the-art available methods. In particular, U-NET like architectures are nowadays the-facto methods used in whatever medical imaging segmentation tasks required.
+
+The goal of this tutorial is to introduce you to these new techniques. To do so, we will use MRI brain lesion segmentation as a context. Having the capability to hack and modify them for new problems will be a valuable contribution that you may want to leverage along of your research or professional career.
+
+** Organization
+
+*** Part 1: Basic concepts
+During the first part, I will introduce you to the awesome Pytorch library. PyTorch is the most commonly used library for deep learning research. We
+will cover the basic concepts underlaying the library. As you will see, Altough PyTorch is a low-level library, it introduces a very pythonic and easy-to-use syntaxis, which permits to modify our models extensively and to introduce new ideas very fast.
+
+
+*** Part 2: U-NET model for MRI lesion segmentation
+During the second part, we will implement the U-NET model and we will apply it to the MRI white matter lesion segmentation problem. We will cover the entire training and inference procedures, showing some tricks to learn better and faster models. Finally, I will introduce some of the latest techniques that have been proposed in the context of medical image segmentation, showing how easy is to incorporate them into our models.
+
+
+* License:
+
+This tutorial is released under the version 3 of the GNU General Public License. Please read the license terms before using it. A copy of this license is present in the root directory.
