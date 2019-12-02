@@ -1,8 +1,7 @@
-* Performing medical image segmentation like a pro.
+* Performing medical image segmentation like a pro
 
 This repository is part of the [[https://maiamaster.udg.edu/][MAIA]] master seminar in /Deep Learning/ techniques for medical image segmentation. The seminar is extremely focused on practice, so all the materials are in =notebook= format.
 
-We will cover the basic requirements to implement and train a U-NET model in [[http://pytorch.org][PyTorch]] in the context of lesion segmentation.
 
 * Introduction:
 
@@ -10,10 +9,10 @@ Deep learning techniques have been implemented for a wide range of computer visi
 
 The goal of this tutorial is to introduce you to these new techniques. To do so, we will use MRI brain lesion segmentation as a context. Having the capability to hack and modify them for new problems will be a valuable contribution that you may want to leverage along of your research or professional career.
 
-** Organization
+** Organization:
 
 *** Part 1: Basic concepts
-During the first part, I will introduce you to the awesome Pytorch library. PyTorch is the most commonly used library for deep learning research. We
+During the first part, I will introduce you to the awesome [[https://pytorch.org][PyTorch]] library. PyTorch is the most commonly used library for deep learning research. We
 will cover the basic concepts underlaying the library. As you will see, Altough PyTorch is a low-level library, it introduces a very pythonic and easy-to-use syntaxis, which permits to modify our models extensively and to introduce new ideas very fast.
 
 
