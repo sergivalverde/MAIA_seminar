@@ -29,7 +29,7 @@ Public implementations of the notebooks can be also found in Google Collaborator
 
 - [[https://colab.research.google.com/drive/1gdEeOyhiuIBpBuzIHulm8g1YqjSXlGYs][Part 1]]
 - [[https://colab.research.google.com/drive/1qS1a-K9FKN8YX58IEQ026P70DJw7CN9q][Part 2]]
-- Part 3
+- [[https://colab.research.google.com/drive/1E5FGwTl7tOSthDk_jv4y9G5O2Xg328H9][Part 3]]
 
 
 * License:
